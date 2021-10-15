@@ -66,7 +66,7 @@ cat << EOF > rollup-config.json
   "burn_lock_hash": "0x77c93b0632b5b6c3ef922c5b7cea208fb0a7c427a13d50e13d3fefad17e0c590",
   "required_staking_capacity": 10000000000,
   "challenge_maturity_blocks": 5,
-  "finality_blocks": 20,
+  "finality_blocks": 10,
   "reward_burn_rate": 50,
   "allowed_eoa_type_hashes": [],
   "compatible_chain_id": 1
